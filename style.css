@@ -47,3 +47,8 @@ ol li:nth-child(even){background: #dfdfdf;}
 li:hover{
   cursor: pointer;
  }
+
+ .delete{
+     display: none;
+ }
+ 
